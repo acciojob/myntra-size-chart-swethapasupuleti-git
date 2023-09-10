@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#table {
+	width :100%;
+	border-collapse: collapse;
+}
+#table>thead {
+	align-content :left;
+	
+}
